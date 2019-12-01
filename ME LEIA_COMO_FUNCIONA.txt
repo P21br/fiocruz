@@ -1,0 +1,84 @@
+Como o Oswaldinho funciona?
+
+Persona: Aluno / Não aluno
+IA: Oswaldinho
+
+Devido ao prazo curto, a equipe P21 determinou que o foco principal do chatbot para a apresentação no Hackthon Fiocruz
+será o de Cursos EAD.
+Para afunilar o desenvolvimento e otimizar o tempo, duas personas foram criadas:
+- Aluno
+- Não aluno
+
+As personas acima servem para demonstrar como a AI vai se comportar com diferentes perfis de usuário.
+
+______________________________________________
+
+
+							Trajetória da persona ALUNO:
+
+
+Oswaldinho - mensagem de boas vindas com duas opções de modalidade de ensino:
+	EAD (Funcional)
+	PRESENCIAL (não-funcional)
+Input usuário > escolhe curso EAD
+______________________________________________
+
+Oswaldinho - Já é nosso aluno?
+-Sim, sou aluno
+- Não sou aluno
+
+Input usuário > Sim, sou aluno
+______________________________________________
+
+Oswaldinho - Digite sua matrícula
+Input usuário > [matrícula ficcional 123456]
+______________________________________________
+
+Oswaldinho - Olá [nome_vinculado_matricula], essas são as opções para você:
+- NOTAS
+- CALENDÁRIO DE PROVAS
+- FALTAS
+Input usuário > Notas
+______________________________________________
+Oswaldinho - Sua nota no semestre foi 10
+Obrigado por conversar comigo. De 1 até 10, qual seu grau de satisfação?
+Input usuário > 8
+______________________________________________
+Oswaldinho - Agradeço pela nota e estou aqui para ajudar sempre que quiser.
+
+
+
+______________________________________________
+
+
+							Trajetória da persona NÃO - ALUNO:
+
+
+Oswaldinho - mensagem de boas vindas com duas opções de modalidade de ensino:
+	EAD (Funcional)
+	PRESENCIAL (não-funcional)
+Input usuário > escolhe curso EAD
+______________________________________________
+
+Oswaldinho - Já é nosso aluno?
+-Sim, sou aluno
+- Não sou aluno
+
+Input usuário > Não sou aluno
+
+______________________________________________
+Oswaldinho - Certo. Na modalidade EAD, temos apenas cursos de Especialização com inscrições abertas. Gostaria de fazer a inscrição no(s) curso(s) abaixo?
+1 - Ativação de Processos de Mudança na Formação Superior de Profissionais de Saúde
+Watson Assistant said
+Você gostaria de se inscrever no curso?
+Digite "Sim" para se inscrever
+
+Input usuário > Sim
+_______________________________________________
+
+Oswaldinho - Aqui está o link para você se inscrever:
+
+campusvirtual.fiocruz.br/portal/?q=node/13504
+
+
+

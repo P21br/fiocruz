@@ -1,0 +1,14 @@
+{
+  "output": {
+    "generic":[
+      {
+        "response_type": "text",
+        "text": "Certo. Na modalidade EAD, temos apenas cursos de Especialização com inscrições abertas. Gostaria de fazer a inscrição no(s) curso(s) abaixo?
+1 - Ativação de Processos de Mudança na Formação Superior de Profissionais de Saúde
+Watson Assistant said
+Você gostaria de se inscrever no curso?
+Digite "Sim" para se inscrever"
+      }
+    ]
+  }
+}
